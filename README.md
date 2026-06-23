@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vivir-contigo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Vivir contigo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-contigo/) |
+| **Get License** | [Commercial Licensing for Vivir contigo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-contigo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero vivir contigo la noche entera
+> Nena, no tengas miedo, apaga la luz
+> Perder el control a nuestra manera
+> Que no hay nadie más en el mundo, solo tú
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
