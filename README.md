@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vivir-contigo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Vivir contigo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-contigo/) |
+| **Get License** | [Request Licensing for Vivir contigo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-contigo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e55e8938aec84f737527d7b492fe03fc16d04bf71d6cea57d5a6b887fe34d674` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

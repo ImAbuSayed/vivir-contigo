@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Vivir contigo
+
+This log tracks the cryptographic history and versioning for the song **Vivir contigo** (vivir-contigo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T10:59:54.843489 | `v1` | `e55e8938aec84f737527d7b492fe03fc16d04bf71d6cea57d5a6b887fe34d674` | `d7b02c775ef057cd5efb25d74e562e40fe01f55ff63034f82d9c61c653ddc3ca` | `2026-06-23_vivir-contigo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
